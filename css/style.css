@@ -1,0 +1,62 @@
+
+.lobster-font{
+    font-family: 'Lobster', cursive;
+    
+}
+
+.rounded-5{
+    border-radius: 1.5rem;
+    
+}
+
+.bg-color-body{
+    /* background-color:rgba(67, 94, 113, .7) ; */
+    background-image: linear-gradient(to right bottom, rgba(67, 94, 113, .1), rgba(67, 94, 113, 1));
+
+    /* gradiant; */
+}
+
+.bg-gradient-blue{
+    background-image: linear-gradient(to bottom, #435e71 , #435e71);
+}
+.box-shadow{
+    box-shadow: 0px 0px 30px #7a7878, 0px 0px 30px #7a7878;
+
+}
+.maintxt-color{
+    color: #d6dce0;
+
+}
+
+.table>:not(caption)>*>*{
+    padding: .4rem 0.25rem;
+}
+
+
+
+
+.bottom-10{
+    bottom: 10;
+}
+/* 
+.table  th{
+     padding-left: 0 ; padding-right: 0;
+
+ }
+
+.ww{
+     padding: 0;
+     margin: 0;
+     background-color: yellow;
+ }
+ .ee{
+    padding: 0;
+    margin: 0;
+    background-color: green;
+ } */
+
+
+/* 
+ #productBill{
+     display: none;
+ } */
